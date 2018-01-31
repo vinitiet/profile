@@ -127,5 +127,6 @@ td {
 }
 
 .three-line {
-  width: 30%;
+  width: 100%;
+  padding: 10px;
 }
